@@ -4,4 +4,4 @@ In this folder you can find my homweorks for CVUT course of Object oriented prog
 2. Parsing function (create unique usernames)
 3. fraction class
 4. Basic DnD
-5. Queue class
+6. Queue class
